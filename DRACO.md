@@ -1,0 +1,3 @@
+- 👋 Hi, I’m christopherwambua
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Machine Learning
